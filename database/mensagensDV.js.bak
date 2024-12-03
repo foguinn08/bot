@@ -1,0 +1,12 @@
+const mensagensAleatoriasDV = [
+    '*😂 Risada garantida:* Por que o livro de matemática ficou triste? Porque tinha muitos problemas!',
+    '*🐸 Meme clássico:* "Cê acredita em vida após memes? Então escolhe logo um comando!"',
+    '*🎲 Jogue com estilo:* Bora testar sua sorte? Só não vale chorar se perder!',
+    '*🃏 Aleatoriedade no ar:* Hoje é o dia perfeito pra brincar com comandos e esquecer da seriedade!',
+    '*💡 Curiosidade divertida:* Sabia que o emoji "😂" foi eleito a palavra do ano em 2015? Pois é, zoeira universal!',
+    '*🤔 Reflexão engraçada:* Se rir é o melhor remédio, esse menu é praticamente uma farmácia!',
+    '*🕹️ Game on:* Só os fortes sobrevivem no mundo da diversão aleatória!',
+    '*🐒 Momento zoo:* Macacos não bebem café, mas nós temos piadas e comandos pra te animar!'
+];
+
+module.exports = mensagensAleatoriasDV;

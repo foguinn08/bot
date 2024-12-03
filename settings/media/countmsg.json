@@ -1,0 +1,125 @@
+[
+  {
+    "groupId": "120363356812612850@g.us",
+    "numbers": [
+      {
+        "id": "556192691634@s.whatsapp.net",
+        "messages": 3,
+        "cmd_messages": 4,
+        "figus": 0
+      },
+      {
+        "id": "556681008701@s.whatsapp.net",
+        "messages": 20,
+        "cmd_messages": 7,
+        "figus": 1
+      },
+      {
+        "id": "",
+        "messages": 0,
+        "cmd_messages": 1,
+        "figus": 0
+      }
+    ]
+  },
+  {
+    "groupId": "120363361974596402@g.us",
+    "numbers": [
+      {
+        "id": "556681008701@s.whatsapp.net",
+        "messages": 68,
+        "figus": 21,
+        "cmd_messages": 25
+      },
+      {
+        "id": "559185227898@s.whatsapp.net",
+        "messages": 19,
+        "cmd_messages": 0,
+        "figus": 2
+      },
+      {
+        "id": "559185290532@s.whatsapp.net",
+        "messages": 75,
+        "cmd_messages": 1,
+        "figus": 7
+      },
+      {
+        "id": "559184978811@s.whatsapp.net",
+        "messages": 21,
+        "cmd_messages": 1,
+        "figus": 3
+      },
+      {
+        "id": "559186056152@s.whatsapp.net",
+        "messages": 46,
+        "cmd_messages": 0,
+        "figus": 0
+      },
+      {
+        "id": "559184204381@s.whatsapp.net",
+        "messages": 4,
+        "cmd_messages": 0,
+        "figus": 3
+      },
+      {
+        "id": "556192691634@s.whatsapp.net",
+        "messages": 6,
+        "cmd_messages": 0,
+        "figus": 0
+      },
+      {
+        "id": "559185662426@s.whatsapp.net",
+        "messages": 13,
+        "cmd_messages": 8,
+        "figus": 4
+      },
+      {
+        "id": "559191086422@s.whatsapp.net",
+        "messages": 16,
+        "cmd_messages": 0,
+        "figus": 0
+      },
+      {
+        "id": "559188391867@s.whatsapp.net",
+        "messages": 15,
+        "cmd_messages": 3,
+        "figus": 0
+      },
+      {
+        "id": "559184433347@s.whatsapp.net",
+        "messages": 3,
+        "cmd_messages": 0,
+        "figus": 2
+      },
+      {
+        "id": "",
+        "messages": 2,
+        "cmd_messages": 0,
+        "figus": 1
+      },
+      {
+        "id": "559193598555@s.whatsapp.net",
+        "messages": 1,
+        "cmd_messages": 0,
+        "figus": 1
+      }
+    ]
+  },
+  {
+    "groupId": "120363354551138976@g.us",
+    "numbers": [
+      {
+        "id": "556681008701@s.whatsapp.net",
+        "messages": 2,
+        "figus": 0,
+        "cmd_messages": 11
+      },
+      {
+        "id": "556192691634@s.whatsapp.net",
+        "messages": 0,
+        "cmd_messages": 4,
+        "figus": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,11 @@
+const mensagensAleatoriasU = [
+    '*💡 Curiosidade:* Sabia que o primeiro programa de computador foi escrito por Ada Lovelace em 1843?',
+    '*⚡ Curiosidade:* O JavaScript foi criado em apenas 10 dias!',
+    '*🧩 Curiosidade:* Sabia que a primeira mensagem enviada pela internet foi "LO"? A conexão caiu antes de completarem "LOGIN".',
+    '*🛠️ Dica:* Sempre use versionamento com Git para organizar seus projetos!',
+    '📱 Curiosidade: O WhatsApp usa a biblioteca Erlang, conhecida pela sua alta performance.',
+    '*🚀 Fato:* Você pode melhorar seu bot otimizando as funções assíncronas!'
+
+];
+
+module.exports = mensagensAleatoriasU;
