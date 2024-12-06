@@ -1,0 +1,5 @@
+*Informações sobre o comando:* ping
+
+Este comando exibe informações sobre o sistema, como tempo de atividade, uso de memória, e versão do NPM.
+
+Uso: #ping
